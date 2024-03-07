@@ -1,0 +1,24 @@
+﻿@model List<Etiqueta>
+
+<h1>Categorías</h1>
+
+<p>
+    <a asp-action="Create">Nueva Categoría</a>
+</p>
+<table>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var etiqueta in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(p=> etiqueta.Nombre)</td>
+                <td></td>
+            </tr>
+        }
+    </tbody>
+</table>
+

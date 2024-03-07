@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\IDEA Systems\\PROYECTOS\\WEB\\Web711\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D5403-8064-4BD2-A260-624168FDBD22}|WebPrincipal\\WebPrincipal.csproj|c:\\idea systems\\proyectos\\web\\web711\\webprincipal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D5403-8064-4BD2-A260-624168FDBD22}|WebPrincipal\\WebPrincipal.csproj|solutionrelative:webprincipal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D5403-8064-4BD2-A260-624168FDBD22}|WebPrincipal\\WebPrincipal.csproj|c:\\idea systems\\proyectos\\web\\web711\\webprincipal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C6D5403-8064-4BD2-A260-624168FDBD22}|WebPrincipal\\WebPrincipal.csproj|solutionrelative:webprincipal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D5403-8064-4BD2-A260-624168FDBD22}|WebPrincipal\\WebPrincipal.csproj|c:\\idea systems\\proyectos\\web\\web711\\webprincipal\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D5403-8064-4BD2-A260-624168FDBD22}|WebPrincipal\\WebPrincipal.csproj|solutionrelative:webprincipal\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D5403-8064-4BD2-A260-624168FDBD22}|WebPrincipal\\WebPrincipal.csproj|c:\\idea systems\\proyectos\\web\\web711\\webprincipal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6D5403-8064-4BD2-A260-624168FDBD22}|WebPrincipal\\WebPrincipal.csproj|solutionrelative:webprincipal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D5403-8064-4BD2-A260-624168FDBD22}|WebPrincipal\\WebPrincipal.csproj|c:\\idea systems\\proyectos\\web\\web711\\webprincipal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C6D5403-8064-4BD2-A260-624168FDBD22}|WebPrincipal\\WebPrincipal.csproj|solutionrelative:webprincipal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6D5403-8064-4BD2-A260-624168FDBD22}|WebPrincipal\\WebPrincipal.csproj|c:\\idea systems\\proyectos\\web\\web711\\webprincipal\\models\\viewmodels\\productosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6D5403-8064-4BD2-A260-624168FDBD22}|WebPrincipal\\WebPrincipal.csproj|solutionrelative:webprincipal\\models\\viewmodels\\productosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\IDEA Systems\\PROYECTOS\\WEB\\Web711\\WebPrincipal\\Program.cs",
+              "RelativeDocumentMoniker": "WebPrincipal\\Program.cs",
+              "ToolTip": "C:\\IDEA Systems\\PROYECTOS\\WEB\\Web711\\WebPrincipal\\Program.cs",
+              "RelativeToolTip": "WebPrincipal\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:57:52.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\IDEA Systems\\PROYECTOS\\WEB\\Web711\\WebPrincipal\\appsettings.json",
+              "RelativeDocumentMoniker": "WebPrincipal\\appsettings.json",
+              "ToolTip": "C:\\IDEA Systems\\PROYECTOS\\WEB\\Web711\\WebPrincipal\\appsettings.json",
+              "RelativeToolTip": "WebPrincipal\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-03T20:56:33.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\IDEA Systems\\PROYECTOS\\WEB\\Web711\\WebPrincipal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebPrincipal\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\IDEA Systems\\PROYECTOS\\WEB\\Web711\\WebPrincipal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebPrincipal\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T07:35:04.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\IDEA Systems\\PROYECTOS\\WEB\\Web711\\WebPrincipal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebPrincipal\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\IDEA Systems\\PROYECTOS\\WEB\\Web711\\WebPrincipal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebPrincipal\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-22T07:32:17.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\IDEA Systems\\PROYECTOS\\WEB\\Web711\\WebPrincipal\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "WebPrincipal\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\IDEA Systems\\PROYECTOS\\WEB\\Web711\\WebPrincipal\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "WebPrincipal\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-13T04:29:45.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductosViewModel.cs",
+              "DocumentMoniker": "C:\\IDEA Systems\\PROYECTOS\\WEB\\Web711\\WebPrincipal\\Models\\ViewModels\\ProductosViewModel.cs",
+              "RelativeDocumentMoniker": "WebPrincipal\\Models\\ViewModels\\ProductosViewModel.cs",
+              "ToolTip": "C:\\IDEA Systems\\PROYECTOS\\WEB\\Web711\\WebPrincipal\\Models\\ViewModels\\ProductosViewModel.cs",
+              "RelativeToolTip": "WebPrincipal\\Models\\ViewModels\\ProductosViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-13T06:35:05.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
